@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A432E570-4050-4C4C-9F3F-03D13953879A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Big-Cat/Model/BigCatorNotModel.cs">
+    <Files>
+      <File FileName="Big-Cat/AzureTable.xaml" Line="35" Column="15" />
+      <File FileName="Big-Cat/AzureTable.xaml.cs" Line="29" Column="1" />
+      <File FileName="Big-Cat/Big-CatPage.xaml" Line="13" Column="1" />
+      <File FileName="Big-Cat/Big-CatPage.xaml.cs" Line="13" Column="1" />
+      <File FileName="Big-Cat/CustomVision.xaml" Line="14" Column="1" />
+      <File FileName="Big-Cat/CustomVision.xaml.cs" Line="64" Column="10" />
+      <File FileName="Big-Cat/obj/Debug/BigCat.Big-CatPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="Droid/Resources/xml/file_paths.xml" Line="4" Column="79" />
+      <File FileName="Big-Cat/Model/EvaluationModel.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="29" Column="1" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="iOS/LaunchScreen.storyboard" />
+      <File FileName="Big-Cat/Model/BigCatorNotModel.cs" Line="16" Column="3" />
+      <File FileName="Big-Cat/AzureManager.cs" Line="37" Column="10" />
+      <File FileName="packages/Xam.Plugin.Geolocator.4.0.1/readme.txt" Line="1" Column="1" />
+      <File FileName="packages/Xam.Plugin.Geolocator.3.0.4/readme.txt" Line="1" Column="1" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="12" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.ItemProperties.Big-Cat.Droid AndroidDesignerPreferredDevice="Galaxy Nexus" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Big-Cat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.32bf2f50841e7636dc3844b030ee29dec78f3524" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
